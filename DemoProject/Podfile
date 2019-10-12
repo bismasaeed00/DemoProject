@@ -1,0 +1,18 @@
+ platform :ios, '11.0'
+
+target 'DemoProject' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'SwiftLint'
+
+  target 'DemoProjectTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'DemoProjectUITests' do
+    # Pods for testing
+  end
+
+end
