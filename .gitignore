@@ -1,0 +1,5 @@
+
+*.xcuserstate
+DemoProject/DemoProject/.DS_Store
+.DS_Store
+DemoProject/Pods/Pods.xcodeproj/xcuserdata/bismasaeed.xcuserdatad/xcschemes/xcschememanagement.plist
